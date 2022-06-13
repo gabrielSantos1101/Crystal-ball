@@ -20,7 +20,10 @@ const respostas = [
   'sim.',
   'as perspectivas não são tão boas.',
   'Concentre-se e pergunte novamente.',
-  'Sinais apontam que sim'
+  'Sinais apontam que sim.',
+  'Não sou obrigado a responder isso.',
+  'Isso só depende de você.',
+  'Diria que sim mas acho que não.'
 ]
 
 //Fazer pergunta ao clicar
