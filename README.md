@@ -8,7 +8,7 @@
 
 Um site de aleatorização de respostas
 
-- site final: [doctor-care](https://Gabriel-Santos01.github.io/Crystal-ball/)
+- site final: [Crystal ball](https://Gabriel-Santos01.github.io/Crystal-ball/)
 
 ## 🚀 Tecnologias
 
